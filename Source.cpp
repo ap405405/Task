@@ -2,7 +2,7 @@
 #include "iostream"
 #include <string>
 #include <vector>
-#include "My2D.h"
+#include "MyPainter2D.h"
 
 
 MyPainter2D Painter_2D;
